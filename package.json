@@ -1,11 +1,11 @@
 {
-  "name": "argon-design-system-react",
+  "name": "peter-staker-react-portfolio",
   "version": "1.1.0",
-  "description": "React version of Argon Design System by Creative Tim",
+  "description": "Portfolio",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
+    "url": "git+https://github.com/peterjast/portfolio"
   },
   "keywords": [
     "react",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
   },
-  "homepage": "https://demos.creative-tim.com/argon-design-system-react/",
+  "homepage": "https://eloquent-fermat-f4bd11.netlify.app/",
   "scripts": {
     "start": "CHOKIDAR_USEPOLLING=true react-scripts start",
     "build": "react-scripts build && gulp licenses",
