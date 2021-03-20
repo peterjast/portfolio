@@ -24,6 +24,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
 import profile from "assets/img/theme/peter-staker-headshot.png";
+import portfolio from "./Landing";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -144,7 +145,7 @@ class Profile extends React.Component {
                         <p>
                         Technology enthusiast and lifelong seeker of knowledge—unrivaled work ethic, meticulous attention to detail, and superior ability to master new skills quickly. 
                         </p>
-                        <a href="/portfolio-page">
+                        <a href={portfolio}>
                           Learn more
                         </a>
                       </Col>
