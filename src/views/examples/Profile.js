@@ -24,7 +24,6 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
 import profile from "assets/img/theme/peter-staker-headshot.png";
-import portfolio from "./Landing";
 
 class Profile extends React.Component {
   componentDidMount() {
