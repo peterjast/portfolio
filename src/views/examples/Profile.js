@@ -144,9 +144,6 @@ class Profile extends React.Component {
                         <p>
                         Technology enthusiast and lifelong seeker of knowledge—unrivaled work ethic, meticulous attention to detail, and superior ability to master new skills quickly. 
                         </p>
-                        <a href="/portfolio-page">
-                          Learn more
-                        </a>
                       </Col>
                     </Row>
                   </div>
