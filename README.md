@@ -1,6 +1,6 @@
 # Portfolio
 
-Portfolio created using Argon Design Systems and React deployed at: [https://peterstaker.netlify.app/](https://peterstaker.netlify.app/)
+Portfolio created using Argon Design Systems and React. Deployed at: [https://peterstaker.netlify.app/](https://peterstaker.netlify.app/)
 
 ***
 
